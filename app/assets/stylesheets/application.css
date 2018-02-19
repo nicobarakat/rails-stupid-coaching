@@ -13,3 +13,15 @@
  *= require_tree .
  *= require_self
  */
+
+.content {
+  padding: 50px;
+}
+
+#btn {
+  margin-left: 20px;
+}
+
+.form-inline {
+  margin-top: 20px;
+}
